@@ -104,7 +104,17 @@ Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 
 ## ¿De qué se trata? {.theme-section1 .center}
 
-### Cada encuentro es un espacio para compartir lo aprendido de los capítulos asignados.
+::::: columns
+::: {.column width="70%" style="text-align: right; margin-right: 0px;"}
+![](imagenes/libro.jpg){width="375"}
+:::
+
+::: {.column width="30%" style="text-align: left; margin-left: -190px;"}
+<br>
+<br>
+**Cada encuentro es un espacio para compartir lo aprendido de los capítulos asignados**
+:::
+:::::
 
 ## ¿Querés presentar un capítulo? {.theme-section3 .center}
 
