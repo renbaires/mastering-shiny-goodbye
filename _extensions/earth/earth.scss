@@ -234,3 +234,12 @@ div.sourceCode {
     margin-top: 100px;
   }
 }
+
+.reveal .slides section .fragment.highlight-orange {
+  opacity: 1;
+  visibility: inherit
+}
+
+.reveal .slides section .fragment.highlight-orange.visible {
+  background-color: #dfcbe0;
+}

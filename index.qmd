@@ -2,12 +2,12 @@
 format: 
   earth-revealjs:
     logo: logo.png
-    footer: "Presentación realizada con el template: <a href='https://github.com/EmilHvitfeldt/quarto-revealjs-earth' target='_blank'>EmilHvitfeldt/quarto-revealjs-earth</a>"
+    footer: "<a href='https://github.com/RLadies-BA/mastering-shiny' target='_blank'>Club de lectura Mastering Shiny</a>"
 ---
 
 ## Bienvenidos al {.theme-title2 .center}
 
-### Mastering Shiny Club
+### Club de lectura Mastering Shiny
 
 ::: r-stack
 Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
@@ -18,10 +18,14 @@ Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 ## Código de conducta {.theme-slide1}
 
 ::: incremental
--   🌈 Nuestro objetivo es que disfrutes este espacio. Si algo no está bien, avísanos.
+-   🌈 Nuestro objetivo es que disfrutes este espacio. Si algo no está bien, avísanos al equipo organizador identificado en el zoom o por slack.
 
--   🛡️ Todos los espacios de participación R en Buenos Aires, se rigen por el [Código de conducta de R en Buenos Aires.](https://renbaires.github.io/cdc)
+-   🛡️ Todos los espacios de participación de R-Ladies & R en Buenos Aires, se rigen por el Código de Conducta, ya sean conferencia, charla, taller, reunión, redes sociales y otros medios en línea. [Código de conducta de R en Buenos Aires](https://renbaires.github.io/cdc) 🤝[Código de conducta de RLadies Buenos Aires](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#spanish)
 :::
+
+## Organizadoras del Club de lectura {.theme-slide3}
+
+![](imagenes/organizadoras_club.png){fig-align="center"}
 
 ## R Ladies Buenos Aires {.theme-slide2}
 
@@ -35,10 +39,6 @@ Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 :::
 :::::
 
-## Organizadoras {.theme-slide3}
-
-![](imagenes/organizadoras_r_ladies.png){fig-alt="organizadoras" fig-align="center"}
-
 # R en Buenos Aires {.theme-slide5}
 
 ::::: columns
@@ -50,44 +50,6 @@ Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 <br> Este grupo surge con la misión de conectar a quienes usan el lenguaje de programación R en Buenos Aires, independientemente de su grado de conocimiento y el ámbito de aplicación del mismo. El objetivo es promover el uso R, el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios.
 :::
 :::::
-
-# Organizadoras {.theme-slide6}
-
-::::: columns
-::: {.column width="50%" style="text-align: center;"}
-![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%; aling: left;"}
-
-**Andrea Gomez Vargas**
-:::
-
-::: {.column width="50%" style="text-align: center;"}
-![](imagenes/ari.jpg){width="50%" style="border-radius: 80%; aling: left;"}
-
-**Ariana Bardauil**
-:::
-:::::
-
-# Colaboradores {.theme-slide7}
-
-:::::: columns
-::: {.column width="33%"}
-![](https://avatars.githubusercontent.com/u/64991969?v=4){style="border-radius: 80%;" width="305"}
-
-**Emanuel Ciardullo**
-:::
-
-::: {.column width="33%"}
-![](imagenes/cande.jpg){style="border-radius: 100%; aling: center;" width="316"}
-
-**Candela Villalonga**
-:::
-
-::: {.column width="33%"}
-![](imagenes/jose.png){style="border-radius: 80%; aling: center;"}
-
-**Jose García Tácite**
-:::
-::::::
 
 ## Patrocinan {.theme-section3 .center}
 
@@ -102,17 +64,27 @@ Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 📌 Inscripción previa en [Meetup](https://www.meetup.com/rladies-buenos-aires/events/306328129/)
 :::
 
-## ¿De qué se trata? {.theme-section1 .center}
+## ¿De qué se trata? {.theme-section2 .center}
 
-::::: columns
-::: {.column width="40%" style="text-align: right;"}
-![](imagenes/libro.jpg){width="375"}
+::::: {.columns style="display: flex; align-items: center;"}
+::: {.column width="50%" style="text-align: center;"}
+![](imagenes/libro.jpg){width="300"}
 :::
 
-::: {.column width="60%"}
-Cada encuentro es un espacio para compartir lo aprendido de los capítulos asignados
+::: {.column width="50%" style="margin-left: -370px;"}
+Nos encontraremos durante 10 miércoles para leer juntas, resolver ejercicios y sacarnos dudas sobre el libro [Mastering Shiny de Hadley Wickham y Garrett Grolemund](https://mastering-shiny.org/)
 :::
 :::::
+
+## Niveles de compromiso {.theme-slide5}
+
+::: incremental
+💡 Hay tres **tipos de compromiso** con el club de lectura y los tres son muy bienvenidos:
+
+-   🔹 **Bajo** (1-2h/semana): Leer capítulos y participar en la reunión.
+-   🔹 **Intermedio** (2-3h/semana): Resolver al menos un ejercicio.
+-   🔹 **Alto** (1 día/semana): Resolver todos los ejercicios y llevar disparadores al debate.\
+:::
 
 ## ¿Querés presentar un capítulo? {.theme-section3 .center}
 
@@ -142,12 +114,34 @@ Cada encuentro es un espacio para compartir lo aprendido de los capítulos asign
 -   🔗 [Ver cronograma completo](https://github.com/RLadies-BA/mastering-shiny)
 :::
 
-## Seguinos 🪐 {.theme-section2 .center}
+## **Próximos encuentros** {.theme-slide8}
 
-### No te pierdas de las novedades
+### Exploramos **Mastering Shiny** capítulo a capítulo.
 
-![](imagenes/6.png){width="801"}
+-   ️ ➡️ **HOY** \| Tu primer Shiny app (Cap. 1-2)\
+    👩‍🏫 [María Cristina Nanton](https://github.com/mcnanton) & [Jesica Formoso](https://github.com/JFormoso)
 
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Empezamos {.theme-section3 .center}
+-   [🗓️ **2025-03-19** \| Basic reactivity (Cap. 3) ⬅️[Buscamos presentador]{style="color: #7d2d83; font-weight: bold;"}]{.fragment .highlight-orange}
+
+-   🗓️ **2025-04-16** \| Workflow (Cap. 5)\
+    👩‍🏫[Monica Alonso](https://github.com/monialo2000) & [Priscilla Minoti](https://github.com/pmnatural)
+
+-   🔗 [Ver cronograma completo](https://github.com/RLadies-BA/mastering-shiny)
+
+## Seguinos 🪐 {.theme-slide7}
+
+Escaneá el QR y sumate al [canal de slack](https://join.slack.com/t/renbaires/shared_invite/zt-30vn0cw5g-~DTUbVPNUKCXPfgrUaolOg) [`#mastering-shiny`]{.fragment .highlight-orange} para charlar dudas-consultas y mas cositas.
+
+::::: columns
+::: {.column width="50%"}
+![](imagenes/6.png){fig-align="center" width="496"}
+:::
+
+::: {.column width="50%"}
+![](imagenes/qr.png){fig-align="left" width="318"}
+:::
+:::::
+
+#           Empezamos {.theme-section3 .center}
 
 ![](https://i.gifer.com/2GU.gif){width="426"}
