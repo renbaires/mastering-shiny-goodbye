@@ -105,14 +105,12 @@ Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 ## ¿De qué se trata? {.theme-section1 .center}
 
 ::::: columns
-::: {.column width="70%" style="text-align: right; margin-right: 0px;"}
+::: {.column width="40%" style="text-align: right;"}
 ![](imagenes/libro.jpg){width="375"}
 :::
 
-::: {.column width="30%" style="text-align: left; margin-left: -190px;"}
-<br>
-<br>
-**Cada encuentro es un espacio para compartir lo aprendido de los capítulos asignados**
+::: {.column width="60%"}
+Cada encuentro es un espacio para compartir lo aprendido de los capítulos asignados
 :::
 :::::
 
@@ -150,6 +148,6 @@ Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 
 ![](imagenes/6.png){width="801"}
 
-## Empezamos {.theme-section3 .center}
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Empezamos {.theme-section3 .center}
 
-<img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="309"/>
+![](https://i.gifer.com/2GU.gif){width="426"}
