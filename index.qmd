@@ -5,9 +5,9 @@ format:
     footer: "<a href='https://github.com/RLadies-BA/mastering-shiny' target='_blank'>Club de lectura Mastering Shiny</a>"
 ---
 
-## Bienvenidos al {.theme-title2 .center}
+## Club de lectura {.theme-title2 .center}
 
-### Club de lectura Mastering Shiny
+### Mastering Shiny
 
 ::: r-stack
 Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
@@ -35,7 +35,7 @@ Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 :::
 
 ::: {.column width="70%"}
-<br> Capítulo local de RLadies global, una organización mundial que promueve la Diversidad de Género en la comunidad R. Su meta es crear una atmósfera amigable para personas interesadas en programar en R en Buenos Aires que se identifiquen con géneros menos representados en la comunidad de R (que incluye pero no se limita a mujeres cis/trans, hombres trans, personas no binarias, género fluído o agénero).
+<br> Capítulo local de **RLadies global**, una organización mundial que promueve la **Diversidad de Género en la comunidad R**. Su meta es crear una atmósfera amigable para personas interesadas en programar en R en Buenos Aires que se identifiquen con géneros menos representados en la comunidad de R (que incluye pero no se limita a mujeres cis/trans, hombres trans, personas no binarias, género fluído o agénero).
 :::
 :::::
 
@@ -47,7 +47,7 @@ Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 :::
 
 ::: {.column width="70%"}
-<br> Este grupo surge con la misión de conectar a quienes usan el lenguaje de programación R en Buenos Aires, independientemente de su grado de conocimiento y el ámbito de aplicación del mismo. El objetivo es promover el uso R, el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios.
+<br> Este grupo surge con la misión de **conectar a quienes usan el lenguaje de programación R** en Buenos Aires, independientemente de su grado de conocimiento y el ámbito de aplicación del mismo. El **objetivo** es *promover el uso R, el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios*.
 :::
 :::::
 
@@ -121,7 +121,7 @@ Nos encontraremos durante 10 miércoles para leer juntas, resolver ejercicios y 
 -   ️ ➡️ **HOY** \| Tu primer Shiny app (Cap. 1-2)\
     👩‍🏫 [María Cristina Nanton](https://github.com/mcnanton) & [Jesica Formoso](https://github.com/JFormoso)
 
--   [🗓️ **2025-03-19** \| Basic reactivity (Cap. 3) ⬅️[Buscamos presentador]{style="color: #7d2d83; font-weight: bold;"}]{.fragment .highlight-orange}
+-   [🗓️ **2025-03-19** \| Basic reactivity (Cap. 3) ⬅️[Buscamos presentador]{style="color:#678D41; font-weight: bold;"}]{.fragment .highlight-orange}
 
 -   🗓️ **2025-04-16** \| Workflow (Cap. 5)\
     👩‍🏫[Monica Alonso](https://github.com/monialo2000) & [Priscilla Minoti](https://github.com/pmnatural)
