@@ -1,0 +1,145 @@
+---
+format: 
+  earth-revealjs:
+    logo: logo.png
+    footer: "Presentación realizada con el template: <a href='https://github.com/EmilHvitfeldt/quarto-revealjs-earth' target='_blank'>EmilHvitfeldt/quarto-revealjs-earth</a>"
+---
+
+## Bienvenidos al {.theme-title2 .center}
+
+### Mastering Shiny Club
+
+::: r-stack
+Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
+:::
+
+![](logo.png){fig-align="center" width="196" height="113"}
+
+## Código de conducta {.theme-slide1}
+
+::: incremental
+-   🌈 Nuestro objetivo es que disfrutes este espacio. Si algo no está bien, avísanos.
+
+-   🛡️ Todos los espacios de participación R en Buenos Aires, se rigen por el [Código de conducta de R en Buenos Aires.](https://renbaires.github.io/cdc)
+:::
+
+## R Ladies Buenos Aires {.theme-slide2}
+
+::::: columns
+::: {.column width="30%"}
+![](https://rladiesba.netlify.app/author/rladies-buenos-aires/avatar_huae50964fd4ece6c135015c99a5e9a56e_144270_270x270_fill_lanczos_center_2.png){width="500"}
+:::
+
+::: {.column width="70%"}
+<br> Capítulo local de RLadies global, una organización mundial que promueve la Diversidad de Género en la comunidad R. Su meta es crear una atmósfera amigable para personas interesadas en programar en R en Buenos Aires que se identifiquen con géneros menos representados en la comunidad de R (que incluye pero no se limita a mujeres cis/trans, hombres trans, personas no binarias, género fluído o agénero).
+:::
+:::::
+
+## Organizadoras {.theme-slide3}
+
+![](imagenes/organizadoras_r_ladies.png){fig-alt="organizadoras" fig-align="center"}
+
+# R en Buenos Aires {.theme-slide5}
+
+::::: columns
+::: {.column width="30%"}
+![](imagenes/renba.png){width="500"}
+:::
+
+::: {.column width="70%"}
+<br> Este grupo surge con la misión de conectar a quienes usan el lenguaje de programación R en Buenos Aires, independientemente de su grado de conocimiento y el ámbito de aplicación del mismo. El objetivo es promover el uso R, el aprendizaje continuo y favorecer la creación de proyectos interdisciplinarios.
+:::
+:::::
+
+# Organizadoras {.theme-slide6}
+
+::::: columns
+::: {.column width="50%" style="text-align: center;"}
+![](https://avatars.githubusercontent.com/u/45582182?v=4){width="50%" style="border-radius: 80%; aling: left;"}
+
+**Andrea Gomez Vargas**
+:::
+
+::: {.column width="50%" style="text-align: center;"}
+![](imagenes/ari.jpg){width="50%" style="border-radius: 80%; aling: left;"}
+
+**Ariana Bardauil**
+:::
+:::::
+
+# Colaboradores {.theme-slide7}
+
+:::::: columns
+::: {.column width="33%"}
+![](https://avatars.githubusercontent.com/u/64991969?v=4){style="border-radius: 80%;" width="305"}
+
+**Emanuel Ciardullo**
+:::
+
+::: {.column width="33%"}
+![](imagenes/cande.jpg){style="border-radius: 100%; aling: center;" width="316"}
+
+**Candela Villalonga**
+:::
+
+::: {.column width="33%"}
+![](imagenes/jose.png){style="border-radius: 80%; aling: center;"}
+
+**Jose García Tácite**
+:::
+::::::
+
+## Patrocinan {.theme-section3 .center}
+
+![](imagenes/patrocinadores.png){fig-align="center"}
+
+## Club de Lectura {.theme-title2 .center}
+
+### 📖 Mastering Shiny 📖
+
+::: r-stack
+📅 Cada dos semanas \| ⏰ 18:30 - 20:00 (UTC-3)\
+📌 Inscripción previa en [Meetup](https://www.meetup.com/rladies-buenos-aires/events/306328129/)
+:::
+
+## ¿De qué se trata? {.theme-section1 .center}
+
+### Cada encuentro es un espacio para compartir lo aprendido de los capítulos asignados.
+
+## ¿Querés presentar un capítulo? {.theme-section3 .center}
+
+::: incremental
+📌 Completá el [formulario](http://tiny.cc/club_de_lectura_shiny)
+
+⏳ Máximo 30' por presentación.
+
+✅ Incluir la resolución de un ejercicio
+
+📂 Compartimos las presentaciones en nuestro repositorio.
+:::
+
+## **Próximos encuentros** {.theme-slide8}
+
+### Exploramos **Mastering Shiny** capítulo a capítulo.
+
+::: incremental
+-   ️ ➡️ **HOY** \| Tu primer Shiny app (Cap. 1-2)\
+    👩‍🏫 [María Cristina Nanton](https://github.com/mcnanton) & [Jesica Formoso](https://github.com/JFormoso)
+
+-   🗓️ **2025-03-19** \| Basic reactivity (Cap. 3)
+
+-   🗓️ **2025-04-16** \| Workflow (Cap. 5)\
+    👩‍🏫[Monica Alonso](https://github.com/monialo2000) & [Priscilla Minoti](https://github.com/pmnatural)
+
+-   🔗 [Ver cronograma completo](https://github.com/RLadies-BA/mastering-shiny)
+:::
+
+## Seguinos 🪐 {.theme-section2 .center}
+
+### No te pierdas de las novedades
+
+![](imagenes/6.png){width="801"}
+
+## Empezamos {.theme-section3 .center}
+
+<img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="309"/>
