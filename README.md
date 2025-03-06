@@ -4,6 +4,9 @@ Repositorio con la presentación de bienvenida al **Club de Lectura** de **Maste
 
 Para más detalles, visita el [repositorio completo](https://github.com/RLadies-BA/mastering-shiny).
 
+Slides elaboradas por [Ariana Bardauil](https://github.com/ariibard)
+
+
 ## 📄 Licencia
 
-Este propyecto utiliza el template: [quarto-revealjs-earth]('https://github.com/EmilHvitfeldt/quarto-revealjs-earth), desarrollado por [Emil Hvitfeldt](https://github.com/EmilHvitfeldt), bajo la licencia [MIT](https://github.com/EmilHvitfeldt/quarto-revealjs-earth/blob/main/LICENSE.md)
+Este proyecto utiliza el template: [quarto-revealjs-earth]('https://github.com/EmilHvitfeldt/quarto-revealjs-earth), desarrollado por [Emil Hvitfeldt](https://github.com/EmilHvitfeldt), bajo la licencia [MIT](https://github.com/EmilHvitfeldt/quarto-revealjs-earth/blob/main/LICENSE.md)
