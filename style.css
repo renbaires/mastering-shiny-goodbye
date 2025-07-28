@@ -1,0 +1,16 @@
+.small-column-text {
+  font-size: 0.6em;
+}
+
+.reveal .slide-logo {
+  display: block;
+  position: fixed;
+  bottom: 10px;         /* Posiciona a 10px del borde inferior */
+  right: 15px;          /* Posiciona a 15px del borde derecho */
+  top: unset !important;  /* Asegura que no se aplique el top */
+  left: unset !important;
+  height: 90px !important;
+  width: 140px !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}

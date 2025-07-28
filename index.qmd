@@ -3,6 +3,7 @@ format:
   earth-revealjs:
     logo: logo.png
     footer: "<a href='https://github.com/RLadies-BA/mastering-shiny' target='_blank'>Club de lectura Mastering Shiny</a>"
+    css: style.css
 ---
 
 ## Club de lectura {.theme-title2 .center}
@@ -13,19 +14,19 @@ format:
 Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 :::
 
-![](logo.png){fig-align="center" width="196" height="113"}
+![](logo.png){fig-align="center" width="200" height="113"}
 
 ## Código de conducta {.theme-slide1}
 
 ::: incremental
 -   🌈 Nuestro objetivo es que disfrutes este espacio. Si algo no está bien, avísanos al equipo organizador identificado en el zoom o por slack.
 
--   🛡️ Todos los espacios de participación de R-Ladies & R en Buenos Aires, se rigen por el Código de Conducta, ya sean conferencia, charla, taller, reunión, redes sociales y otros medios en línea. [Código de conducta de R en Buenos Aires](https://renbaires.github.io/cdc) 🤝[Código de conducta de RLadies Buenos Aires](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#spanish)
+-   🛡️ Todos los espacios de participación de R-Ladies & R en Buenos Aires, se rigen por el Código de Conducta, ya sean conferencia, charla, taller, reunión, redes sociales y otros medios en línea
+
+- Conoce el [Código de conducta de R en Buenos Aires](https://renbaires.github.io/cdc) 🤝 [Código de conducta de RLadies Buenos Aires](https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT.md#spanish)
 :::
 
-## Organizadoras del Club de lectura {.theme-slide3}
-
-![](imagenes/organizadoras_club.png){fig-align="center"}
+# ¿Quiénes organizan este club?
 
 ## R Ladies Buenos Aires {.theme-slide2}
 
@@ -51,20 +52,49 @@ Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 :::
 :::::
 
+## Equipo del Club de lectura {.theme-slide3}
+
+
+![Organizadoras de los grupos de usuarios de R-ladies y R en Buenos Aires](imagenes/organizadoras_club.png){fig-align="center"}
+
+
 ## Patrocinan {.theme-section3 .center}
 
 ![](imagenes/patrocinadores.png){fig-align="center"}
 
-## Club de Lectura {.theme-title2 .center}
+## Resumen {.theme-title2 .center}
 
-### 📖 Mastering Shiny 📖
+### 📖 Mastering Shiny 
 
-::: r-stack
-📅 Cada dos semanas \| ⏰ 18:30 - 20:00 (UTC-3)\
-📌 Inscripción previa en [Meetup](https://www.meetup.com/rladies-buenos-aires/events/306328129/)
-:::
+## ¿Cómo surgió la iniciativa? 
 
-## ¿De qué se trata? {.theme-section2 .center}
+<br>
+
+Queríamos aprender Shiny siguiendo el libro, y sabíamos que en comunidad todo es más fácil y más divertido. Por eso, desde septiembre de 2024 empezamos a organizar este espacio con mucho entusiasmo.
+
+Nos propusimos generar un grupo que nos permitiera:
+
+- Apoyarnos en la lectura para no abandonar el camino,
+
+- Compartir y resolver dudas,
+
+- Y celebrar cada avance.
+
+
+
+## Nuestro compromiso 
+
+<br>
+
+>**No se esperaba ser un experto ni dar cátedra: solo leer, probar y compartir.**
+
+Incentivamos a todos a liderar y participar activamente, sin presión, en una atmósfera de confianza y apoyo mutuo.
+
+Sabemos que sostener estas iniciativas lleva tiempo y dedicación. Todo el trabajo que hacemos desde los capítulos es voluntario, y lo que nos reúne es el compromiso con el aprendizaje colectivo y el deseo de crecer junto a otras personas.
+
+
+
+## Así fue nuestro recorrido {.theme-section2 .center}
 
 ::::: {.columns style="display: flex; align-items: center;"}
 ::: {.column width="50%" style="text-align: center;"}
@@ -72,76 +102,71 @@ Organizado por **R Ladies Buenos Aires** y **R en Buenos Aires**
 :::
 
 ::: {.column width="50%" style="margin-left: -370px;"}
-Nos encontraremos durante 10 miércoles para leer juntas, resolver ejercicios y sacarnos dudas sobre el libro [Mastering Shiny de Hadley Wickham y Garrett Grolemund](https://mastering-shiny.org/)
+Nos encontramos durante 10 miércoles para leer, resolver ejercicios y sacarnos dudas juntas sobre el libro [Mastering Shiny de Hadley Wickham y Garrett Grolemund](https://mastering-shiny.org/)
+
 :::
 :::::
 
-## Niveles de compromiso {.theme-slide5}
+## ¿Cómo finalizó el recorrido?
 
-::: incremental
-💡 Hay tres **tipos de compromiso** con el club de lectura y los tres son muy bienvenidos:
-
--   🔹 **Bajo** (1-2h/semana): Leer capítulos y participar en la reunión.
--   🔹 **Intermedio** (2-3h/semana): Resolver al menos un ejercicio.
--   🔹 **Alto** (1 día/semana): Resolver todos los ejercicios y llevar disparadores al debate.\
-:::
-
-## ¿Querés presentar un capítulo? {.theme-section3 .center}
-
-::: incremental
-📌 Completá el [formulario](http://tiny.cc/club_de_lectura_shiny)
-
-⏳ Máximo 30' por presentación.
-
-✅ Incluir la resolución de un ejercicio
-
-📂 Compartimos las presentaciones en nuestro repositorio.
-:::
-
-## **Próximos encuentros** {.theme-slide8}
-
-### Exploramos **Mastering Shiny** capítulo a capítulo.
-
-::: incremental
--   ️ ➡️ **HOY** \| Tu primer Shiny app (Cap. 1-2)\
-    👩‍🏫 [María Cristina Nanton](https://github.com/mcnanton) & [Jesica Formoso](https://github.com/JFormoso)
-
--   🗓️ **2025-03-19** \| Basic reactivity (Cap. 3)
-
--   🗓️ **2025-04-16** \| Workflow (Cap. 5)\
-    👩‍🏫[Monica Alonso](https://github.com/monialo2000) & [Priscilla Minoti](https://github.com/pmnatural)
-
--   🔗 [Ver cronograma completo](https://github.com/RLadies-BA/mastering-shiny)
-:::
-
-## **Próximos encuentros** {.theme-slide8}
-
-### Exploramos **Mastering Shiny** capítulo a capítulo.
-
--   ️ ➡️ **HOY** \| Tu primer Shiny app (Cap. 1-2)\
-    👩‍🏫 [María Cristina Nanton](https://github.com/mcnanton) & [Jesica Formoso](https://github.com/JFormoso)
-
--   [🗓️ **2025-03-19** \| Basic reactivity (Cap. 3) ⬅️[Buscamos presentador]{style="color:#678D41; font-weight: bold;"}]{.fragment .highlight-orange}
-
--   🗓️ **2025-04-16** \| Workflow (Cap. 5)\
-    👩‍🏫[Monica Alonso](https://github.com/monialo2000) & [Priscilla Minoti](https://github.com/pmnatural)
-
--   🔗 [Ver cronograma completo](https://github.com/RLadies-BA/mastering-shiny)
-
-## Seguinos 🪐 {.theme-slide7}
-
-Escaneá el QR y sumate al [canal de slack](https://join.slack.com/t/renbaires/shared_invite/zt-30vn0cw5g-~DTUbVPNUKCXPfgrUaolOg) [`#mastering-shiny`]{.fragment .highlight-orange} para charlar dudas-consultas y mas cositas.
+10 encuentros - 13 expositores
 
 ::::: columns
-::: {.column width="50%"}
-![](imagenes/6.png){fig-align="center" width="496"}
+::: {.column width="30%" .small-column-text}
+
+Graciela Bellotti
+
+Mauro Crosignani
+
+Laura Misiani
+
+Teresa Boca
+
+Luis Verde Arregoitia
+
+María Cristina Nanton
+
+Jesica Formoso
+
+Monica Alonso
+
+Priscilla Minoti
+
+Virginia García Alonso
+
+Ariana Bardauil
+
+Betsy Cohen
+
+Andrea Gomez Vargas
+
 :::
 
-::: {.column width="50%"}
-![](imagenes/qr.png){fig-align="left" width="318"}
+::: {.column width="70%"}
+
+![](imagenes/collage.png)
+
 :::
 :::::
 
-#           Empezamos {.theme-section3 .center}
 
-![](https://i.gifer.com/2GU.gif){width="426"}
+## Contanos tu experiencia {.theme-slide8}
+
+Nos gustaría saber tu experiencia en el club de lectura. *¿Repetirías la experiencia? ¿Qué cambiarías?* 
+
+<br>
+
+>**Comparte tu feedback a través del siguiente formulario <http://tiny.cc/shiny_feedback>**
+
+
+
+
+## Sigamos en contacto 🪐 {.theme-slide7}
+
+
+![](imagenes/6.png){fig-align="center" width="496"}
+
+
+## ¡Gracias a todas y todos por su compromiso y buena onda. Nos sentimos muy afortunados de haber compartido esta experiencia con ustedes!{.theme-slide7}
+
+
